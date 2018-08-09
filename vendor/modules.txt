@@ -1,4 +1,0 @@
-# github.com/mwf/vgo-a v0.1.0
-github.com/mwf/vgo-a
-# github.com/mwf/vgo-a-fork1 v0.0.0-20180809175853-c2cfafa59bf6
-github.com/mwf/vgo-a-fork1
